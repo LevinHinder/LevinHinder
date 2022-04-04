@@ -19,15 +19,7 @@
 </p>
 
 
-### 🔥 &nbsp; My Stats :
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LevinHinder&custom_title=My GitHub Stats&border_radius=10&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></p>
+## 🔥My Stats :
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LevinHinder&custom_title=My%20GitHub%20Stats&border_radius=10&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevinHinder&layout=compact&border_radius=10&card_width=445&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></p>
-<p align="center"><img src="https://github4life.herokuapp.com/LevinHinder.gif?z=6)"/></p>
-
-
-
-<div align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=LevinHinder&custom_title=My%20Contribution%20Graph&bg_color=1d1f21&color=c9cacc&line=F85D7F&point=c9cacc&hide_border=false"/></p>
