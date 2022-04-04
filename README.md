@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=LevinHinder&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
@@ -28,8 +28,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### 🔥 &nbsp; My Stats :
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LevinHinder&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevinHinder&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LevinHinder&custom_title=My GitHub Stats&border_radius=10&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevinHinder&layout=compact&border_radius=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></a>
 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/LevinHinder.gif?z=6)](https://github4life.herokuapp.com/ethomson)
