@@ -2,24 +2,29 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+## :woman_technologist: &nbsp;About Me
 
 
-### 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Programming Languages I Know
+<p align="center">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" title="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" title="C#" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" title="TypeScript" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" title="PHP" width="50" height="50"/>&nbsp;
+</p>
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>
+## 🛠 &nbsp;Tools I Use
+<p align="center">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="Visual Studio Code" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sln_icon_130163.png" title="Visual Studio" width="50" height="50"/>&nbsp;
+  <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" title="PyCharm" width="50" height="50"/>&nbsp;
 </p>
 
 
-## 🔥My Stats :
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LevinHinder&custom_title=My%20GitHub%20Stats&border_radius=10&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevinHinder&layout=compact&border_radius=10&card_width=445&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/></p>
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=LevinHinder&custom_title=My%20Contribution%20Graph&bg_color=1d1f21&color=c9cacc&line=F85D7F&point=c9cacc&hide_border=false"/></p>
+## 🔥My Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LevinHinder&custom_title=My%20GitHub%20Stats&border_radius=10&border_color=c9cacc&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=1DDECB&bg_color=1E1E1E"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevinHinder&layout=compact&border_radius=10&card_width=445&border_color=c9cacc&title_color=ffffff&text_color=c9cacc&bg_color=1E1E1E&custom_title=My%20Most%20Used%20Languages"/></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=LevinHinder&custom_title=My%20Contribution%20Graph&bg_color=1E1E1E&color=c9cacc&line=1DDECB&point=c9cacc&hide_border=false"/></p>
