@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
 
-## About Me
+## 👻 About Me
 - 👨‍🎓 I am a college student form Switzerland.
 - 👨‍💻 I love to code in my spare time.
 - ⚽️ If I am coding, I love to play football.
@@ -11,7 +11,7 @@
 - 🔌 Do you need a script for a Cinema 4D plugin? I'll help you out.
 - 📫 Feel free to contact me on <a href="https://www.linkedin.com/in/levin-hinder-0584151b8/">LinkedIn</a> or <a href="mailto:levin.hinder.code@gmail.com">Mail</a>
 
-## Programming Languages I Know
+## 🖥 Programming Languages I Know
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" title="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" title="C#" width="50" height="50"/>&nbsp;
