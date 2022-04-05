@@ -20,8 +20,12 @@
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="Visual Studio Code" width="50" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sln_icon_130163.png" title="Visual Studio" width="50" height="50"/>&nbsp;
-  <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" title="PyCharm" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/640px-PyCharm_Icon.svg.png" title="PyCharm" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" title="WebStorm" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/GitHub-Mark-Light-64px.png" title="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" title="MySQL" width="96.24" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" title="phpMyAdmin" width="89.71" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1280px-FileZilla_logo.svg.png" title="FileZilla" width="50" height="50"/>&nbsp;
 </p>
 
 
