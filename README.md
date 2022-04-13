@@ -31,6 +31,7 @@
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/GitHub-Mark-Light-64px.png" title="GitHub" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" title="Raspberry Pi" width="39.58" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" title="MySQL" width="96.24" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/color/344/tensorflow.png" title="TensorFlow" width="50" height="50"/>&nbsp;
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" title="phpMyAdmin" width="89.71" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1280px-FileZilla_logo.svg.png" title="FileZilla" width="50" height="50"/>&nbsp; -->
 </p>
