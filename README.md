@@ -6,7 +6,7 @@
 - 👨‍🎓 I am a college student form Switzerland.
 - 👨‍💻 I love to code in my spare time.
 - ⚽️ If I am not coding, I love to play football.
-- 🌱 I am currently learning TypeScript and Neural Networks with Keras.
+- 🌱 I am currently learning TypeScript and Webdevelopment.
 - 💡 Do you have an idea for a project but don't know how to code it up? Reach out to me. I am more than happy to help.
 - 🔌 Do you need a script for a Cinema 4D plugin? I'll help you out.
 - 📫 Feel free to contact me on <a href="https://www.linkedin.com/in/levin-hinder-0584151b8/">LinkedIn</a> or <a href="mailto:levin.hinder.code@gmail.com">Mail</a>.
