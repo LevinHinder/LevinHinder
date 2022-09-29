@@ -13,28 +13,27 @@
 
 ## 🖥 Programming Languages I Know
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" title="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" title="C#" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" title="TypeScript" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" title="PHP" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/python.svg" title="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/csharp.svg" title="C#" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/javascript.svg" title="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/typescript.svg" title="TypeScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/html.svg" title="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/css.svg" title="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/php.svg" title="PHP" width="50" height="50"/>&nbsp;
 </p>
 
 ## 🛠 Tools I Use
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="Visual Studio Code" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/vscode.svg" title="Visual Studio Code" width="50" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sln_icon_130163.png" title="Visual Studio" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/640px-PyCharm_Icon.svg.png" title="PyCharm" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" title="WebStorm" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/GitHub-Mark-Light-64px.png" title="GitHub" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" title="Raspberry Pi" width="39.58" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" title="MySQL" width="96.24" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" title="React" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_confluence_icon_130672.png" title="Confluence" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" width="50" height="50"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="Bitbucket" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/pycharm.svg" title="PyCharm" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/webstorm.svg" title="WebStorm" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/github.svg" title="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/mysql.svg" title="MySQL" width="96.24" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/react.svg" title="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/confluence.svg" title="Confluence" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/jira.svg" title="Jira" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/bitbucket.svg" title="Bitbucket" width="50" height="50"/>&nbsp;
 </p>
 
 
