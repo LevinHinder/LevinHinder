@@ -32,8 +32,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" title="Raspberry Pi" width="39.58" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" title="MySQL" width="96.24" height="50"/>&nbsp;
   <img src="https://img.icons8.com/color/344/tensorflow.png" title="TensorFlow" width="50" height="50"/>&nbsp;
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" title="phpMyAdmin" width="89.71" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1280px-FileZilla_logo.svg.png" title="FileZilla" width="50" height="50"/>&nbsp; -->
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_confluence_icon_130672.png" title="Confluence" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2429/SVG/bitbucket_icon_130979.svg" title="Jira" width="50" height="50"/>&nbsp;
 </p>
 
 
