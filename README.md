@@ -25,11 +25,12 @@
 ## 🛠 Tools I Use
 <p align="center">
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/vscode.svg" title="Visual Studio Code" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sln_icon_130163.png" title="Visual Studio" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/visualstudio.svg" title="Visual Studio" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/pycharm.svg" title="PyCharm" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/webstorm.svg" title="WebStorm" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/github.svg" title="GitHub" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/mysql.svg" title="MySQL" width="96.24" height="50"/>&nbsp;
+  <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/nodejs.svg" title="Node.js" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/react.svg" title="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/confluence.svg" title="Confluence" width="50" height="50"/>&nbsp;
   <img src="https://github.com/LevinHinder/LevinHinder/blob/main/icons/jira.svg" title="Jira" width="50" height="50"/>&nbsp;
