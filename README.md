@@ -1,7 +1,6 @@
 ## 🔥 My Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LevinHinder&custom_title=My%20GitHub%20Stats&border_radius=10&border_color=c9cacc&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=1DDECB&bg_color=1E1E1E"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevinHinder&layout=compact&border_radius=10&card_width=445&border_color=c9cacc&title_color=ffffff&text_color=c9cacc&bg_color=1E1E1E&custom_title=My%20Most%20Used%20Languages"/></p>
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=LevinHinder&custom_title=My%20Contribution%20Graph&bg_color=1E1E1E&color=c9cacc&line=1DDECB&point=c9cacc&hide_border=false"/></p>
 
 
 
